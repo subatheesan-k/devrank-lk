@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T04:20:18.927943+00:00",
-  "total_users": 5,
+  "generated_at": "2026-03-12T07:41:43.935255+00:00",
+  "total_users": 7,
   "rankings": [
     {
       "login": "ktauchathuranga",
@@ -11,9 +11,9 @@
       "website": "https://ktauchathuranga.github.io",
       "location": "Sri Lanka",
       "followers": 24,
-      "commits_this_year": 1245,
+      "commits_this_year": 1247,
       "prs_this_year": 137,
-      "issues_this_year": 163,
+      "issues_this_year": 164,
       "total_stars": 59,
       "public_repos": 67,
       "repos_contributed_to": 49,
@@ -22,9 +22,57 @@
         "Python",
         "Shell"
       ],
-      "score": 5006,
+      "score": 5014,
       "github_url": "https://github.com/ktauchathuranga",
       "rank": 1
+    },
+    {
+      "login": "Minokainduwara",
+      "name": "Minoka Wickramasinghe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76654300?u=6954ce843d3bc095a5d125303b0a96744bca17bf&v=4",
+      "bio": "BICT student at University of Ruhuna.\r\nA self learning Full stack developer & Game Developer. \r\n",
+      "company": "",
+      "website": "https://www.linkedin.com/in/minoka-wickramasinghe-3b7198194/",
+      "location": "Kegalle",
+      "followers": 23,
+      "commits_this_year": 402,
+      "prs_this_year": 36,
+      "issues_this_year": 13,
+      "total_stars": 52,
+      "public_repos": 48,
+      "repos_contributed_to": 34,
+      "top_languages": [
+        "C++",
+        "HTML",
+        "JavaScript"
+      ],
+      "score": 1643,
+      "github_url": "https://github.com/Minokainduwara",
+      "rank": 2
+    },
+    {
+      "login": "ishansivmal",
+      "name": "T.M.I. Sivmal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164498170?u=5bcf8f8ee1675c1e7ddba37666c53fdc51844f7f&v=4",
+      "bio": "Undergraduate student from University of Ruhuna ",
+      "company": "",
+      "website": "",
+      "location": "matara",
+      "followers": 5,
+      "commits_this_year": 164,
+      "prs_this_year": 35,
+      "issues_this_year": 0,
+      "total_stars": 19,
+      "public_repos": 8,
+      "repos_contributed_to": 10,
+      "top_languages": [
+        "JavaScript",
+        "TypeScript",
+        "Java"
+      ],
+      "score": 748,
+      "github_url": "https://github.com/ishansivmal",
+      "rank": 3
     },
     {
       "login": "chapayev0",
@@ -48,7 +96,7 @@
       ],
       "score": 422,
       "github_url": "https://github.com/chapayev0",
-      "rank": 2
+      "rank": 4
     },
     {
       "login": "SLUICEPRJCT",
@@ -70,7 +118,7 @@
       ],
       "score": 1,
       "github_url": "https://github.com/SLUICEPRJCT",
-      "rank": 3
+      "rank": 5
     },
     {
       "login": "prasadrandombage",
@@ -92,7 +140,7 @@
       ],
       "score": 0,
       "github_url": "https://github.com/prasadrandombage",
-      "rank": 4
+      "rank": 6
     },
     {
       "login": "mihos",
@@ -112,7 +160,7 @@
       "top_languages": [],
       "score": 0,
       "github_url": "https://github.com/mihos",
-      "rank": 5
+      "rank": 7
     }
   ]
 }
