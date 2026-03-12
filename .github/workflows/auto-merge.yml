@@ -69,5 +69,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "All checks passed. Merging PR..."
-          gh pr merge ${{ github.event.pull_request.number }} --merge --auto
+          gh pr merge ${{ github.event.pull_request.number }} --merge
           
