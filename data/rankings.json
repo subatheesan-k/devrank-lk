@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:08:58.157808+00:00",
-  "total_users": 6,
+  "generated_at": "2026-03-12T04:20:18.927943+00:00",
+  "total_users": 5,
   "rankings": [
     {
       "login": "ktauchathuranga",
@@ -11,7 +11,7 @@
       "website": "https://ktauchathuranga.github.io",
       "location": "Sri Lanka",
       "followers": 24,
-      "commits_this_year": 1244,
+      "commits_this_year": 1245,
       "prs_this_year": 137,
       "issues_this_year": 163,
       "total_stars": 59,
@@ -22,33 +22,9 @@
         "Python",
         "Shell"
       ],
-      "score": 5003,
+      "score": 5006,
       "github_url": "https://github.com/ktauchathuranga",
       "rank": 1
-    },
-    {
-      "login": "Dineshs737",
-      "name": "Uthayakumar Dinesh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/112531821?u=19bd0d10de702da4a9772ec838e0858ed8884e73&v=4",
-      "bio": "",
-      "company": "",
-      "website": "",
-      "location": "",
-      "followers": 3,
-      "commits_this_year": 375,
-      "prs_this_year": 89,
-      "issues_this_year": 41,
-      "total_stars": 4,
-      "public_repos": 13,
-      "repos_contributed_to": 13,
-      "top_languages": [
-        "TypeScript",
-        "JavaScript",
-        "Go"
-      ],
-      "score": 1671,
-      "github_url": "https://github.com/Dineshs737",
-      "rank": 2
     },
     {
       "login": "chapayev0",
@@ -72,7 +48,7 @@
       ],
       "score": 422,
       "github_url": "https://github.com/chapayev0",
-      "rank": 3
+      "rank": 2
     },
     {
       "login": "SLUICEPRJCT",
@@ -94,7 +70,7 @@
       ],
       "score": 1,
       "github_url": "https://github.com/SLUICEPRJCT",
-      "rank": 4
+      "rank": 3
     },
     {
       "login": "prasadrandombage",
@@ -116,7 +92,7 @@
       ],
       "score": 0,
       "github_url": "https://github.com/prasadrandombage",
-      "rank": 5
+      "rank": 4
     },
     {
       "login": "mihos",
@@ -136,7 +112,7 @@
       "top_languages": [],
       "score": 0,
       "github_url": "https://github.com/mihos",
-      "rank": 6
+      "rank": 5
     }
   ]
 }
