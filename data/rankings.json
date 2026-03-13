@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T07:56:15.162053+00:00",
-  "total_users": 16,
+  "generated_at": "2026-03-13T09:43:26.504783+00:00",
+  "total_users": 18,
   "rankings": [
     {
       "login": "sameerasw",
@@ -14,7 +14,7 @@
       "commits_this_year": 6322,
       "prs_this_year": 241,
       "issues_this_year": 100,
-      "total_stars": 3669,
+      "total_stars": 3671,
       "public_repos": 80,
       "repos_contributed_to": 42,
       "top_languages": [
@@ -22,7 +22,7 @@
         "Java",
         "Kotlin"
       ],
-      "score": 35526,
+      "score": 35534,
       "github_url": "https://github.com/sameerasw",
       "rank": 1
     },
@@ -171,6 +171,30 @@
       "rank": 7
     },
     {
+      "login": "RasheedhulMuneer1",
+      "name": "Rasheedhul Muneer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155557895?v=4",
+      "bio": "",
+      "company": "",
+      "website": "https://rasheedhulmuneer1.github.io/",
+      "location": "",
+      "followers": 1,
+      "commits_this_year": 272,
+      "prs_this_year": 1,
+      "issues_this_year": 0,
+      "total_stars": 0,
+      "public_repos": 20,
+      "repos_contributed_to": 9,
+      "top_languages": [
+        "JavaScript",
+        "Jupyter Notebook",
+        "Java"
+      ],
+      "score": 822,
+      "github_url": "https://github.com/RasheedhulMuneer1",
+      "rank": 8
+    },
+    {
       "login": "ishansivmal",
       "name": "T.M.I. Sivmal",
       "avatar_url": "https://avatars.githubusercontent.com/u/164498170?u=5bcf8f8ee1675c1e7ddba37666c53fdc51844f7f&v=4",
@@ -192,7 +216,31 @@
       ],
       "score": 748,
       "github_url": "https://github.com/ishansivmal",
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "login": "bl4ckf0xk",
+      "name": "Kavindu Sahan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68717754?u=97575813743f4dcea1aa24293262bae39438466e&v=4",
+      "bio": "Do I Even Exist?",
+      "company": "Technical Consultant at Inivos Consulting",
+      "website": "https://bl4ckf0xk.github.io",
+      "location": "Sri Lanka",
+      "followers": 17,
+      "commits_this_year": 192,
+      "prs_this_year": 11,
+      "issues_this_year": 1,
+      "total_stars": 0,
+      "public_repos": 30,
+      "repos_contributed_to": 17,
+      "top_languages": [
+        "Python",
+        "Assembly",
+        "TypeScript"
+      ],
+      "score": 650,
+      "github_url": "https://github.com/bl4ckf0xk",
+      "rank": 10
     },
     {
       "login": "randil-h",
@@ -216,7 +264,7 @@
       ],
       "score": 447,
       "github_url": "https://github.com/randil-h",
-      "rank": 9
+      "rank": 11
     },
     {
       "login": "chapayev0",
@@ -240,7 +288,7 @@
       ],
       "score": 422,
       "github_url": "https://github.com/chapayev0",
-      "rank": 10
+      "rank": 12
     },
     {
       "login": "Bl4ke100",
@@ -251,7 +299,7 @@
       "website": "",
       "location": "",
       "followers": 4,
-      "commits_this_year": 105,
+      "commits_this_year": 113,
       "prs_this_year": 7,
       "issues_this_year": 1,
       "total_stars": 0,
@@ -262,9 +310,9 @@
         "HTML",
         "TypeScript"
       ],
-      "score": 356,
+      "score": 380,
       "github_url": "https://github.com/Bl4ke100",
-      "rank": 11
+      "rank": 13
     },
     {
       "login": "abdrhxyii",
@@ -288,7 +336,7 @@
       ],
       "score": 171,
       "github_url": "https://github.com/abdrhxyii",
-      "rank": 12
+      "rank": 14
     },
     {
       "login": "Dhanushka11222",
@@ -310,7 +358,7 @@
       ],
       "score": 26,
       "github_url": "https://github.com/Dhanushka11222",
-      "rank": 13
+      "rank": 15
     },
     {
       "login": "SLUICEPRJCT",
@@ -332,7 +380,7 @@
       ],
       "score": 1,
       "github_url": "https://github.com/SLUICEPRJCT",
-      "rank": 14
+      "rank": 16
     },
     {
       "login": "prasadrandombage",
@@ -354,7 +402,7 @@
       ],
       "score": 0,
       "github_url": "https://github.com/prasadrandombage",
-      "rank": 15
+      "rank": 17
     },
     {
       "login": "mihos",
@@ -374,7 +422,7 @@
       "top_languages": [],
       "score": 0,
       "github_url": "https://github.com/mihos",
-      "rank": 16
+      "rank": 18
     }
   ]
 }
