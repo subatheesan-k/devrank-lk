@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T14:45:35.582589+00:00",
+  "generated_at": "2026-03-15T00:40:01.930129+00:00",
   "total_users": 23,
   "rankings": [
     {
@@ -10,11 +10,11 @@
       "company": "@zone24x7",
       "website": "https://sameerasw.com",
       "location": "Sri Lanka",
-      "followers": 479,
-      "commits_this_year": 6412,
-      "prs_this_year": 245,
+      "followers": 480,
+      "commits_this_year": 6432,
+      "prs_this_year": 247,
       "issues_this_year": 100,
-      "total_stars": 3680,
+      "total_stars": 3686,
       "public_repos": 80,
       "repos_contributed_to": 42,
       "top_languages": [
@@ -22,7 +22,7 @@
         "Java",
         "Kotlin"
       ],
-      "score": 35860,
+      "score": 35955,
       "github_url": "https://github.com/sameerasw",
       "rank": 1
     },
